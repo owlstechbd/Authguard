@@ -1,0 +1,119 @@
+@media screen and (max-width: 981px){
+    .hero-banner-v2{
+        height: auto;
+    }
+    .service-iteam {
+      flex-direction: column;
+      
+      height: auto;
+    }
+    .service-iteam-right{
+        width: 100%;
+    }
+    .service-iteamleft {
+        width: 100%;
+    }
+    .footer-top{
+        flex-direction: column;
+    }
+    .footer-box{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .first-iteam-footer{
+        padding-right: 0;
+    }
+    .footer-bottom{
+        padding: 50px 0;
+    }
+    section.section-padding.footer {
+        padding-bottom: 0;
+    }
+    .page-title{
+        height: 50vh;
+    }
+    .footer-top{
+        margin-top: -10px;
+    }
+    
+}
+@media screen and (max-width: 720px){
+
+
+    .for-desktop{
+        display: none;
+    }
+    .for-mobile{
+        display: block;
+    }
+    .geeks img{
+        width: 70%;
+    }
+    .hero-banner-v2{
+        height: auto;
+    }
+    .hero-banner-v2 .hero-content h1{
+        font-size: 35px;
+    }
+    .carousel-control-prev i{
+        font-size: 18px;
+    }
+    .carousel-control-next i{
+        font-size: 18px;
+    }
+    .carousel-control-prev i{
+        left: 10px;
+    }
+    .carousel-control-next i{
+        right: 10px;
+    }
+    .section-top{
+        display: none;
+    }
+    .section-top-left{
+        display: none;
+    }
+    .scetion-title{
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    .section-padding{
+        padding: 70px 0;
+    }
+    .prime-title{
+        font-size: 35px;
+    }
+    .service-iteam{
+        flex-direction: column;
+    }
+    .service-iteam-right{
+        width: 100%;
+    }
+    .animated-element img {
+        display: none;
+    }
+    .footer-top{
+        flex-direction: column;
+    }
+    .footer-box{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .first-iteam-footer{
+        padding-right: 0;
+    }
+    .footer-bottom{
+        padding: 50px 0;
+    }
+    section.section-padding.footer {
+        padding-bottom: 0;
+    }
+    .page-title{
+        height: 50vh;
+    }
+    .footer-top{
+        margin-top: -10px;
+    }
+
+}
+
